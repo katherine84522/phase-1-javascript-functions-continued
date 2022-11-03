@@ -1,1 +1,3 @@
-// code your solution here
+const mondayWork = (activity = "go to the office") => {
+    return "This Monday, I will " + activity + "."
+}
